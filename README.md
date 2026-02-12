@@ -21,6 +21,17 @@ The project's KiCad files can be found under `/PCB/kicad`.
 ![](https://cdn.2008000.xyz/cdn/29-01-2026%2F3193766a_image.png)
 
 ---
+## BOM
+
+| Name          | Description                                                                                       | Quantity | Price  | Shipping |
+| ------------- | ------------------------------------------------------------------------------------------------- | -------- | ------ | -------- |
+| Componenets   | Componenets from LCSC. detailed part breakdown [here](./production/Thinkpad_Mod_Rev_1.0.0_bom.csv) | -        | $26.63 | $12.62   |
+| PCB+Stencil   | PCB and Stencil from JLCPCB                                                                       | -        | $5.10  | $8.35    |
+| **Sub Total** |                                                                                                   |          | $31.73 | $20.97   |
+| **Total**     |                                                                                                   |          | $52.7  |          |
+
+
+---
 
 ## License
 
